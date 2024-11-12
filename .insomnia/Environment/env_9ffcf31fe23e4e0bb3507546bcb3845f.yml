@@ -1,0 +1,14 @@
+_id: env_9ffcf31fe23e4e0bb3507546bcb3845f
+type: Environment
+parentId: env_583f2608aaea117c749fb246166bd4099295b349
+modified: 1731422440980
+created: 1731422421895
+name: OpenAPI env groceries-demo.dev.insomnia.moe
+data:
+  scheme: https
+  base_path: ""
+  host: groceries-demo.dev.insomnia.moe
+dataPropertyOrder: null
+color: "#ff4df0"
+isPrivate: false
+metaSortKey: 1731422421895

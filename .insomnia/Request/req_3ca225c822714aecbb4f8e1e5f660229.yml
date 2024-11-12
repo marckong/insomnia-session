@@ -1,0 +1,24 @@
+_id: req_3ca225c822714aecbb4f8e1e5f660229
+type: Request
+parentId: fld_362911656c2e42b7b9bbea381eb8a35b
+modified: 1731422421898
+created: 1731422421898
+url: "{{ _.base_url }}/get_groceries"
+name: Get the list of groceries
+description: Get the list of groceries
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+preRequestScript: null
+metaSortKey: -1731422421898
+isPrivate: false
+pathParameters: null
+afterResponseScript: null
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
